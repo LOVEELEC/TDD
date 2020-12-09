@@ -1,0 +1,3 @@
+文件结构说明如下：
+	- cpputest:从git(git@github.com:cpputest/cpputest.git)上直接下载并按照git上源码安装cpputest的方式安装cpputest;
+	- DumbExample:是和Unity相同的测试源码，后面可以以此文件内容作为其他测试的框架模板
